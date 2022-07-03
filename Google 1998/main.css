@@ -1,0 +1,43 @@
+.logo {
+    text-align: center;
+}
+.search {
+    text-align: center;
+    background-color: #DCD7C9;
+}
+.search p {
+    margin-bottom: 1px;
+}
+.box1{
+    float: left;
+    height: 68px;
+    width: 37%;
+    background-color: #7EE5DA;
+    text-align: center;
+    margin: 0.2% 0.2% 0.2% 0;
+    font-size: 15px;
+    padding-top: 10px;
+}
+.box2{
+    float: left;
+    height: 73px;
+    width: 19%;
+    background-color: #70CCC2;
+    text-align: center;
+    margin: 0.2% 0.2% 0.2% 0;
+    font-size: 15px;
+    padding-top: 5px;
+}
+.box3{
+    float: left;
+    height: 78px;
+    width: 43.6%;
+    background-color: #62B3AA;
+    text-align: center;
+    margin: 0.2% 0;
+    font-size: 15px;
+}
+.foot{
+    text-align: center;
+    margin-top: 100px;
+}
